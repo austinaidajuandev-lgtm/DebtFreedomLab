@@ -29,3 +29,9 @@ It helps users model debt repayment strategies, visualize payoff timelines, and 
    ```bash
    git clone https://github.com/austiniadajuandev-lgtm/DebtFreedomLab.git
    cd DebtFreedomLab
+
+---
+
+## 🎉 Beta Launch
+DebtFreedomLab is now live in public beta under EcoScale.  
+We welcome feedback, issues, and contributions as we refine toward Version 1.0.
